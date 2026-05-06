@@ -19,7 +19,7 @@ Questo repository raccoglie il mio percorso di studio pratico, laboratori e prog
 
 - Migliorare le competenze pratiche
 - Creare un portfolio tecnico
-- Prepararmi per ruoli entry-level in cybersecurity
+- Prepararmi per ruoli nella cybersecurity
 
 ## Repository principali
 
